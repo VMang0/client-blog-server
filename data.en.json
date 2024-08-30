@@ -1,0 +1,412 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Andrew Johnson",
+      "image": "/assets/images/authors/author_1.png",
+      "location": "New York, USA",
+      "position": "Content Writer",
+      "company": "@Company",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sarah Williams",
+      "image": "/assets/images/authors/author_2.png",
+      "location": "London, UK",
+      "position": "Graphic Designer",
+      "company": "@DesignCo",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "image": "/assets/images/authors/author_3.png",
+      "location": "Sydney, Australia",
+      "position": "Software Engineer",
+      "company": "@TechCorp",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jessica Taylor",
+      "image": "/assets/images/authors/author_4.png",
+      "location": "Toronto, Canada",
+      "position": "Marketing Specialist",
+      "company": "@MarketMasters",
+      "description": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio, et facilisis lectus feugiat eget. Sed lectus. Praesent elementum hendrerit tortor.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 5,
+      "name": "David Smith",
+      "image": "/assets/images/authors/author_5.png",
+      "location": "Berlin, Germany",
+      "position": "Product Manager",
+      "company": "@InnovateInc",
+      "description": "Suspendisse potenti. Sed viverra libero et orci elementum, a consectetur purus varius. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "image": "/assets/images/authors/author_6.png",
+      "location": "Paris, France",
+      "position": "SEO Specialist",
+      "company": "@SearchOptimizers",
+      "description": "Phasellus eu dolor et arcu pharetra fringilla. Cras vulputate odio sed metus fermentum, non varius erat dignissim. Nulla facilisi.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Daniel Johnson",
+      "image": "/assets/images/authors/author_7.png",
+      "location": "Tokyo, Japan",
+      "position": "Data Analyst",
+      "company": "@DataInsights",
+      "description": "Integer in lectus felis. Fusce ultrices, mi at vulputate tincidunt, lorem dolor ultrices justo, nec gravida neque sapien eu augue.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Olivia Wilson",
+      "image": "/assets/images/authors/author_8.png",
+      "location": "Los Angeles, USA",
+      "position": "UX Researcher",
+      "company": "@UserFocus",
+      "description": "Duis euismod, nulla at feugiat viverra, dolor sapien consectetur odio, ut fermentum augue libero non neque.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 9,
+      "name": "James Miller",
+      "image": "/assets/images/authors/author_9.png",
+      "location": "Dublin, Ireland",
+      "position": "Web Developer",
+      "company": "@WebCreators",
+      "description": "Aliquam erat volutpat. Nulla facilisi. Sed tincidunt, arcu eu pretium hendrerit, felis nunc suscipit massa, a pharetra risus magna nec elit.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sophia Anderson",
+      "image": "/assets/images/authors/author_10.png",
+      "location": "Madrid, Spain",
+      "position": "Digital Marketing Manager",
+      "company": "@DigitalVision",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi eu turpis vitae risus egestas.",
+      "links": {
+        "facebook": "/",
+        "twitter": "/",
+        "instagram": "/",
+        "linkedin": "/"
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Step-by-step guide to choosing great font pairs",
+      "author": {
+        "id": 1,
+        "name": "Andrew Johnson"
+      },
+      "createdAt": "May 23, 2024",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.",
+      "category": "startup",
+      "tags": ["Business"],
+      "img": "/assets/images/posts/post_8.png",
+      "details": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+          "information": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non blandit massa enim nec. Scelerisque viverra mauris in aliquam sem. At risus viverra adipiscing at in tellus. Sociis natoque penatibus et magnis dis parturient montes. Ridiculus mus mauris vitae ultricies leo. Neque egestas congue quisque egestas diam. Risus in hendrerit gravida rutrum quisque non."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Maximizing productivity with agile methodologies",
+      "author": {
+        "id": 2,
+        "name": "Sarah Williams"
+      },
+      "createdAt": "June 10, 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit.",
+      "category": "business",
+      "tags": ["Experience", "Business"],
+      "img": "/assets/images/posts/post_7.png",
+      "details": [
+        {
+          "title": "Quisque velit nisi, pretium ut lacinia in, elementum id enim.",
+          "information": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
+        },
+        {
+          "title": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
+          "information": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Leveraging social media for brand growth",
+      "author": {
+        "id": 3,
+        "name": "Michael Brown"
+      },
+      "createdAt": "June 15, 2024",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "category": "economy",
+      "tags": ["Business", "Marketing"],
+      "img": "/assets/images/posts/post_6.png",
+      "details": [
+        {
+          "title": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.",
+          "information": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
+        },
+        {
+          "title": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit.",
+          "information": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "The future of AI in marketing",
+      "author": {
+        "id": 4,
+        "name": "Jessica Taylor"
+      },
+      "createdAt": "June 20, 2024",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "category": "technology",
+      "tags": ["Marketing"],
+      "img": "/assets/images/posts/post_5.png",
+      "details": [
+        {
+          "title": "Cras ultricies ligula sed magna dictum porta.",
+          "information": "Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "How to create a compelling content strategy",
+      "author": {
+        "id": 5,
+        "name": "David Smith"
+      },
+      "createdAt": "July 1, 2024",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "category": "startup",
+      "tags": ["Business", "Marketing"],
+      "img": "/assets/images/posts/post_4.png",
+      "details": [
+        {
+          "title": "Donec sollicitudin molestie malesuada.",
+          "information": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui."
+        },
+        {
+          "title": "Proin eget tortor risus.",
+          "information": "Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "The impact of remote work on productivity",
+      "author": {
+        "id": 6,
+        "name": "Emily Davis"
+      },
+      "createdAt": "July 10, 2024",
+      "description": "Curabitur aliquet quam id dui posuere blandit. Proin eget tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+      "category": "startup",
+      "tags": ["Life"],
+      "img": "/assets/images/posts/post_3.png",
+      "details": [
+        {
+          "title": "Pellentesque in ipsum id orci porta dapibus.",
+          "information": "Pellentesque in ipsum id orci porta dapibus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui."
+        },
+        {
+          "title": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+          "information": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Building a strong company culture in a hybrid work environment",
+      "author": {
+        "id": 7,
+        "name": "Daniel Johnson"
+      },
+      "createdAt": "July 15, 2024",
+      "description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt.",
+      "category": "business",
+      "tags": ["Business", "Experience"],
+      "img": "/assets/images/posts/post_2.png",
+      "details": [
+        {
+          "title": "Curabitur aliquet quam id dui posuere blandit.",
+          "information": "Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus."
+        },
+        {
+          "title": "Nulla quis lorem ut libero malesuada feugiat.",
+          "information": "Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada."
+        },
+        {
+          "title": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+          "information": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla porttitor accumsan tincidunt."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Harnessing the power of data in decision-making",
+      "author": {
+        "id": 8,
+        "name": "Olivia Wilson"
+      },
+      "createdAt": "July 20, 2024",
+      "description": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+      "category": "business",
+      "tags": ["Screen"],
+      "img": "/assets/images/posts/post_1.png",
+      "details": [
+        {
+          "title": "Donec sollicitudin molestie malesuada.",
+          "information": "Donec sollicitudin molestie malesuada. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The role of customer feedback in product development",
+      "author": {
+        "id": 9,
+        "name": "James Miller"
+      },
+      "createdAt": "July 25, 2024",
+      "description": "Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat.",
+      "category": "technology",
+      "tags": ["Experience", "Technology"],
+      "img": "/assets/images/posts/post_8.png",
+      "details": [
+        {
+          "title": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+          "information": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Understanding user experience in digital products",
+      "author": {
+        "id": 10,
+        "name": "Sophia Anderson"
+      },
+      "createdAt": "August 1, 2024",
+      "description": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+      "category": "technology",
+      "tags": ["Experience", "Screen"],
+      "img": "/assets/images/posts/post_7.png",
+      "details": [
+        {
+          "title": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+          "information": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Innovative strategies for product launches",
+      "author": {
+        "id": 2,
+        "name": "Sarah Williams"
+      },
+      "createdAt": "August 5, 2024",
+      "description": "Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+      "category": "economy",
+      "tags": ["Marketing"],
+      "img": "/assets/images/posts/post_6.png",
+      "details": [
+        {
+          "title": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+          "information": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Scaling your startup: Key challenges and solutions",
+      "author": {
+        "id": 3,
+        "name": "Michael Brown"
+      },
+      "createdAt": "August 10, 2024",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "category": "economy",
+      "tags": ["Business", "Technology"],
+      "img": "/assets/images/posts/post_5.png",
+      "details": [
+        {
+          "title": "Proin eget tortor risus.",
+          "information": "Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat."
+        },
+        {
+          "title": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+          "information": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
+    }
+  ]
+}

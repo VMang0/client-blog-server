@@ -3,14 +3,24 @@ const path = require('path');
 const express = require('express');
 
 const app = express();
-const router = jsonServer.router('data.json');
+
+const getLocalizedData = (locale) => {
+  const filePath = path.join(__dirname, `data.${locale}.json`);
+  return jsonServer.router(filePath);
+};
+
 const middlewares = jsonServer.defaults({
-  static: path.join(__dirname, 'public')
+  static: path.join(__dirname, 'public'),
 });
 
 app.use(middlewares);
 app.use(jsonServer.bodyParser);
-app.use('/api', router);
+
+app.use('/api', (req, res, next) => {
+  const locale = req.query.locale || 'en';
+  const router = getLocalizedData(locale);
+  router(req, res, next);
+});
 
 app.use(express.static(path.join(__dirname, 'public')));
 
