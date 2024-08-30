@@ -5,7 +5,7 @@ const express = require('express');
 const app = express();
 
 const getLocalizedData = (locale) => {
-  const filePath = path.join(__dirname, `data.${locale}.json`);
+  const filePath = path.join(__dirname, `../data.${locale}.json`);
   return jsonServer.router(filePath);
 };
 
