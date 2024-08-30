@@ -365,6 +365,48 @@
           "information": "Pellentesque in ipsum id orci porta dapibus. Nulla quis lorem ut libero malesuada feugiat."
         }
       ]
+    },
+    {
+      "id": "11",
+      "title": "Innovative strategies for product launches",
+      "author": {
+        "id": 2,
+        "name": "Sarah Williams"
+      },
+      "createdAt": "30 июля 2024",
+      "description": "Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+      "category": "economy",
+      "tags": ["Marketing"],
+      "img": "/assets/images/posts/post_6.png",
+      "details": [
+        {
+          "title": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+          "information": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Понимание пользовательского опыта в цифровых интернетах",
+      "author": {
+        "id": 3,
+        "name": "Michael Brown"
+      },
+      "createdAt": "30 июля 2024",
+      "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "category": "economy",
+      "tags": ["Business", "Technology"],
+      "img": "/assets/images/posts/post_5.png",
+      "details": [
+        {
+          "title": "Proin eget tortor risus.",
+          "information": "Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat."
+        },
+        {
+          "title": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.",
+          "information": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Nulla quis lorem ut libero malesuada feugiat."
+        }
+      ]
     }
   ]
 }
