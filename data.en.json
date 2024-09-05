@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Andrew Johnson",
-      "image": "/assets/images/authors/author_1.png",
+      "image": "/assets/images/authors/author_1.jpg",
       "location": "New York, USA",
       "position": "Content Writer",
       "company": "@Company",
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Sarah Williams",
-      "image": "/assets/images/authors/author_2.png",
+      "image": "/assets/images/authors/author_2.jpg",
       "location": "London, UK",
       "position": "Graphic Designer",
       "company": "@DesignCo",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Michael Brown",
-      "image": "/assets/images/authors/author_3.png",
+      "image": "/assets/images/authors/author_3.jpg",
       "location": "Sydney, Australia",
       "position": "Software Engineer",
       "company": "@TechCorp",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Jessica Taylor",
-      "image": "/assets/images/authors/author_4.png",
+      "image": "/assets/images/authors/author_4.jpg",
       "location": "Toronto, Canada",
       "position": "Marketing Specialist",
       "company": "@MarketMasters",
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "name": "David Smith",
-      "image": "/assets/images/authors/author_5.png",
+      "image": "/assets/images/authors/author_5.jpg",
       "location": "Berlin, Germany",
       "position": "Product Manager",
       "company": "@InnovateInc",
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name": "Emily Davis",
-      "image": "/assets/images/authors/author_6.png",
+      "image": "/assets/images/authors/author_6.jpg",
       "location": "Paris, France",
       "position": "SEO Specialist",
       "company": "@SearchOptimizers",
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "Daniel Johnson",
-      "image": "/assets/images/authors/author_7.png",
+      "image": "/assets/images/authors/author_7.jpg",
       "location": "Tokyo, Japan",
       "position": "Data Analyst",
       "company": "@DataInsights",
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "name": "Olivia Wilson",
-      "image": "/assets/images/authors/author_8.png",
+      "image": "/assets/images/authors/author_8.jpg",
       "location": "Los Angeles, USA",
       "position": "UX Researcher",
       "company": "@UserFocus",
@@ -123,7 +123,7 @@
     {
       "id": 9,
       "name": "James Miller",
-      "image": "/assets/images/authors/author_9.png",
+      "image": "/assets/images/authors/author_9.jpg",
       "location": "Dublin, Ireland",
       "position": "Web Developer",
       "company": "@WebCreators",
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "name": "Sophia Anderson",
-      "image": "/assets/images/authors/author_10.png",
+      "image": "/assets/images/authors/author_10.jpg",
       "location": "Madrid, Spain",
       "position": "Digital Marketing Manager",
       "company": "@DigitalVision",

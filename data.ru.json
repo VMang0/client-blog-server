@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Andrew Johnson",
-      "image": "/assets/images/authors/author_1.png",
+      "image": "/assets/images/authors/author_1.jpg",
       "location": "Нью-Йорк, США",
       "position": "Контент-райтер",
       "company": "@Company",
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "name": "Sarah Williams",
-      "image": "/assets/images/authors/author_2.png",
+      "image": "/assets/images/authors/author_2.jpg",
       "location": "Лондон, Великобритания",
       "position": "Графический дизайнер",
       "company": "@DesignCo",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "Michael Brown",
-      "image": "/assets/images/authors/author_3.png",
+      "image": "/assets/images/authors/author_3.jpg",
       "location": "Сидней, Австралия",
       "position": "Программист",
       "company": "@TechCorp",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "name": "Jessica Taylor",
-      "image": "/assets/images/authors/author_4.png",
+      "image": "/assets/images/authors/author_4.jpg",
       "location": "Торонто, Канада",
       "position": "Маркетинговый специалист",
       "company": "@MarketMasters",
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "name": "David Smith",
-      "image": "/assets/images/authors/author_5.png",
+      "image": "/assets/images/authors/author_5.jpg",
       "location": "Берлин, Германия",
       "position": "Менеджер по продукту",
       "company": "@InnovateInc",
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name": "Emily Davis",
-      "image": "/assets/images/authors/author_6.png",
+      "image": "/assets/images/authors/author_6.jpg",
       "location": "Париж, Франция",
       "position": "Специалист по SEO",
       "company": "@SearchOptimizers",
@@ -93,7 +93,7 @@
     {
       "id": 7,
       "name": "Daniel Johnson",
-      "image": "/assets/images/authors/author_7.png",
+      "image": "/assets/images/authors/author_7.jpg",
       "location": "Токио, Япония",
       "position": "Аналитик данных",
       "company": "@DataInsights",
@@ -108,7 +108,7 @@
     {
       "id": 8,
       "name": "Olivia Wilson",
-      "image": "/assets/images/authors/author_8.png",
+      "image": "/assets/images/authors/author_8.jpg",
       "location": "Лос-Анджелес, США",
       "position": "Исследователь UX",
       "company": "@UserFocus",
@@ -123,7 +123,7 @@
     {
       "id": 9,
       "name": "James Miller",
-      "image": "/assets/images/authors/author_9.png",
+      "image": "/assets/images/authors/author_9.jpg",
       "location": "Дублин, Ирландия",
       "position": "Веб-разработчик",
       "company": "@WebCreators",
@@ -138,7 +138,7 @@
     {
       "id": 10,
       "name": "Sophia Anderson",
-      "image": "/assets/images/authors/author_10.png",
+      "image": "/assets/images/authors/author_10.jpg",
       "location": "Мадрид, Испания",
       "position": "Менеджер по маркетингу",
       "company": "@DigitalVision",
